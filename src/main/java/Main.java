@@ -18,7 +18,7 @@ public class Main {
         System.out.println();
 
         ShopApp.printEmployeeName(hourlyEmployee1);
-
+        ShopApp.printEmployeeName(manager1);
 
         System.out.println(ShopApp.isAFit(manager1,clothing2));
     }
