@@ -22,6 +22,8 @@ public class Clothing {
     public String toString() {
         return "Clothing{" +
                 "description='" + description + '\'' +
+                ", price= $" + price +
+                ", size=" + size +
                 '}';
     }
 }
